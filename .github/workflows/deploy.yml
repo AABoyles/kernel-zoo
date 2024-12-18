@@ -20,7 +20,7 @@ jobs:
           python-version: '3.11'
       - name: Install the dependencies
         run: |
-          "${SHELL}" <(curl -L micro.mamba.pm/install.sh)
+          #"${SHELL}" <(curl -L micro.mamba.pm/install.sh)
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |

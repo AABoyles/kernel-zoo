@@ -13,7 +13,7 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlite-p5-kernel==0.1.0
 
 # Xeus Metakernel
-jupyterlite_xeus
+# jupyterlite_xeus
 
 # SQLite kernel
 jupyterlite_xeus_sqlite
@@ -32,7 +32,7 @@ jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 #jupyterlite-clojure-kernel-canary
 
 # Wren Kernel
-jupyterlite_xeus_wren
+#jupyterlite_xeus_wren
 
 # JupyterLab: Terminal
 # # Off because it doesn't work out of the box, needs some updating.
