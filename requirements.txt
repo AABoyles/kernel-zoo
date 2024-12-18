@@ -8,7 +8,7 @@ jupyterlite-pyodide-kernel==0.4.5
 jupyterlite-javascript-kernel==0.3.0
 jupyterlite-p5-kernel==0.1.0
 # jupyterlite_xeus
-#jupyterlite_xeus_python
+jupyterlite_xeus_python
 jupyterlite_xeus_sqlite
 jupyterlite_xeus_lua
 #jupyterlite_xeus_wren
