@@ -25,10 +25,14 @@ jupyterlite_xeus_lua
 jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 
 # Ruby Kernel
+# # Off because it doesn't work out of the box, needs some updating.
+# jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
 
-jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
+# Clojure Kernel
+jupyterlite-clojure-kernel-canary
 
 # JupyterLab: Terminal
+# # Off because it doesn't work out of the box, needs some updating.
 # jupyterlite-terminal
 # JupyterLab: Fasta file renderer
 jupyterlab-fasta>=3.3.0,<4
