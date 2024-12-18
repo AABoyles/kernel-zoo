@@ -20,7 +20,7 @@ jupyterlite-p5-kernel==0.1.0
 jupyterlite_xeus_sqlite
 
 # R Kernel
-jupyterlite-webr-kernel @ git+https://github.com/r-wasm/jupyterlite-webr-kernel.git
+jupyterlite-webr-kernel @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
