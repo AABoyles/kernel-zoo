@@ -9,7 +9,7 @@ jupyterlite-javascript-kernel==0.3.0
 jupyterlite-p5-kernel==0.1.0
 jupyterlite_xeus
 jupyterlite_xeus_wren
-#jupyterlite_xeus_nelson
+jupyterlite_xeus_nelson
 jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 #jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
 #jupyterlite-clojure-kernel-canary
