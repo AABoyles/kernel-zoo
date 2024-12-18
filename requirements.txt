@@ -29,7 +29,10 @@ jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 # jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
 
 # Clojure Kernel
-jupyterlite-clojure-kernel-canary
+#jupyterlite-clojure-kernel-canary
+
+# Wren Kernel
+jupyterlite_xeus_wren
 
 # JupyterLab: Terminal
 # # Off because it doesn't work out of the box, needs some updating.
