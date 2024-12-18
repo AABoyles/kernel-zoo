@@ -4,3 +4,6 @@ channels:
   - conda-forge
 dependencies:
   - xeus-python
+  - xeus-lua
+  - xeus-sqlite
+  
