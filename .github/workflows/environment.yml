@@ -6,4 +6,6 @@ dependencies:
   - xeus-python
   - xeus-lua
   - xeus-sqlite
-  
+  - xeus-cpp
+  - xeus-nelson
+  - xeus-javascript
