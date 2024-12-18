@@ -11,9 +11,9 @@ jupyterlite_xeus
 jupyterlite_xeus_wren
 jupyterlite_xeus_nelson
 jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
-#jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
+jupyterlite-scheme-kernel-canary
 #jupyterlite-clojure-kernel-canary
-#jupyterlite-scheme-kernel-canary
+#jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
 
 ## Extensions
 # jupyterlite-terminal
