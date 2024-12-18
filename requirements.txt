@@ -22,6 +22,9 @@ jupyterlite_xeus_sqlite
 # R Kernel
 jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 
+# Lua Kernel
+jupyterlite_xeus_lua
+
 # JupyterLab: Fasta file renderer (optional)
 jupyterlab-fasta>=3.3.0,<4
 # JupyterLab: Geojson file renderer (optional)
