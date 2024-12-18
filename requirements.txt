@@ -1,62 +1,40 @@
-# Core modules (mandatory)
+3## Core modules (mandatory)
 jupyterlite-core==0.4.5
 jupyterlab~=4.2.5
 notebook~=7.2.2
 
-# Python kernel
+## Kernels
 jupyterlite-pyodide-kernel==0.4.5
-
-# JavaScript kernel
 jupyterlite-javascript-kernel==0.3.0
-
-# P5 kernel
 jupyterlite-p5-kernel==0.1.0
-
-# Xeus Metakernel
 # jupyterlite_xeus
-
-# SQLite kernel
+#jupyterlite_xeus_python
 jupyterlite_xeus_sqlite
-
-# Lua Kernel
 jupyterlite_xeus_lua
-
-# R Kernel
-jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
-
-# Ruby Kernel
-# # Off because it doesn't work out of the box, needs some updating.
-# jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
-
-# Clojure Kernel
-#jupyterlite-clojure-kernel-canary
-
-# Wren Kernel
 #jupyterlite_xeus_wren
+#jupyterlite_xeus_nelson
+jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
+#jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
+#jupyterlite-clojure-kernel-canary
+#jupyterlite-scheme-kernel-canary
 
-# JupyterLab: Terminal
-# # Off because it doesn't work out of the box, needs some updating.
+## Extensions
 # jupyterlite-terminal
-# JupyterLab: Fasta file renderer
+# jupyterlite-ai
 jupyterlab-fasta>=3.3.0,<4
-# JupyterLab: Geojson file renderer
 jupyterlab-geojson>=3.4.0,<4
-# JupyterLab: dark theme
+
+## Themes
 jupyterlab-night
-# JupyterLab: Miami nights theme (optional)
 jupyterlab_miami_nights
 
-# Python: ipywidget library for Jupyter notebooks
+## IPython Extensions
 ipywidgets>=8.1.3,<9
-# Python: ipyevents library for Jupyter notebooks
 ipyevents>=2.0.1
-# Python: interative Matplotlib library for Jupyter notebooks
 ipympl>=0.8.2
-# Python: ipycanvas library for Jupyter notebooks
 ipycanvas>=0.9.1
-# Python: ipyleaflet library for Jupyter notebooks
 ipyleaflet
 
-# Python: plotting libraries
+## Python plotting libraries
 plotly>=5,<6
 bqplot
