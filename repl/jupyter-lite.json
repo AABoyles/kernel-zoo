@@ -1,12 +1,12 @@
 {
-    "jupyter-lite-schema-version": 0,
-    "jupyter-config-data": {
-      "terminalsAvailable": true,
-      "disabledExtensions": [
-        "@jupyterlab/drawio-extension",
-        "jupyterlab-kernel-spy",
-        "jupyterlab-tour"
-      ]
-    }
+  "jupyter-lite-schema-version": 0,
+  "jupyter-config-data": {
+    "appName": "Kernel Zoo",
+    "terminalsAvailable": true,
+    "disabledExtensions": [
+      "@jupyterlab/drawio-extension",
+      "jupyterlab-kernel-spy",
+      "jupyterlab-tour"
+    ]
   }
-  
+} 
