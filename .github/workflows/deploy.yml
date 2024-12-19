@@ -19,9 +19,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Setup Node
-        uses: actions/setup-node@4
+        uses: actions/setup-node@v4
         with:
-          nove-version: '22.12.0'
+          node-version: '22.12.0'
       - name: Install the dependencies
         run: |
           python -m pip install -r requirements.txt
