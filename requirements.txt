@@ -17,7 +17,7 @@ jupyterlite-clojure-kernel-canary
 
 ## Extensions
 jupyterlite-terminal
-# jupyterlite-ai
+jupyterlite-ai
 
 ## File Renderers
 jupyterlab-fasta>=3.3.0,<4
