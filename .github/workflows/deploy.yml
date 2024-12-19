@@ -24,6 +24,8 @@ jobs:
           node-version: '22.12.0'
       - name: Install the dependencies
         run: |
+          curl -Ls https://micro.mamba.pm/api/micromamba/linux-64/latest | tar -xvj bin/micromamba
+          eval "$(./bin/micromamba shell hook -s posix)"
           python -m pip install -r requirements.txt
       - name: Build the JupyterLite site
         run: |
