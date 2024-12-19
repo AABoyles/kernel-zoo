@@ -1,0 +1,13 @@
+{
+    "@jupyterlab/notebook-extension:panel": {
+      "toolbar": [
+        {
+          "name": "download",
+          "args": {},
+          "command": "docmanager:download",
+          "icon": "ui-components:download",
+          "rank": 1
+        }
+      ]
+    }
+  }
