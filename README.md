@@ -1,27 +1,18 @@
-# JupyterLite Demo
+# Kernel Zoo
 
-[![lite-badge](https://jupyterlite.rtfd.io/en/latest/_static/badge.svg)](https://jupyterlite.github.io/demo)
+Kernel Zoo is a [JupyterLite](https://jupyterlite.readthedocs.io/en/stable/) deployment designed to cram as many functioning kernels into a single browser as possible.
 
-JupyterLite deployed as a static site to GitHub Pages, for demo purposes.
+## ...but why, tho?
+
+Because it's fun. And who knows? Maybe someday I'll need a REPL for Scheme or Wren or NelSon. Sure, I could fire up [replit](https://replit.com/) like a sane developer, or...
 
 ## ✨ Try it in your browser ✨
 
-➡️ **https://jupyterlite.github.io/demo**
+➡️ **https://aaboyles.github.io/kernel-zoo**
 
-![github-pages](https://user-images.githubusercontent.com/591645/120649478-18258400-c47d-11eb-80e5-185e52ff2702.gif)
+## Can I do it too?
 
-## Requirements
-
-JupyterLite is being tested against modern web browsers:
-
-- Firefox 90+
-- Chromium 89+
-
-## Deploy your JupyterLite website on GitHub Pages
-
-Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
-
-## Further Information and Updates
+Um, sure I guess! Check out the guide on the JupyterLite documentation: https://jupyterlite.readthedocs.io/en/latest/quickstart/deploy.html
 
 For more info, keep an eye on the JupyterLite documentation:
 
