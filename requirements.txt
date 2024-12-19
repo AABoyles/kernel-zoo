@@ -13,11 +13,13 @@ jupyterlite_xeus_nelson
 jupyterlite-webr @ git+https://github.com/r-wasm/jupyterlite-webr-kernel
 jupyterlite-scheme-kernel-canary
 jupyterlite-clojure-kernel-canary
-jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
+#jupyterlite-ruby-kernel @ git+https://github.com/kateinoigakukun/jupyterlite-ruby-kernel
 
 ## Extensions
-# jupyterlite-terminal
+jupyterlite-terminal
 # jupyterlite-ai
+
+## File Renderers
 jupyterlab-fasta>=3.3.0,<4
 jupyterlab-geojson>=3.4.0,<4
 
