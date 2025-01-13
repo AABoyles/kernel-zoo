@@ -25,7 +25,10 @@ jobs:
       - name: Setup Micromamba (needed for cockle_wasm_env)
         uses: mamba-org/setup-micromamba@main
       - name: Install the dependencies
-        run: python -m pip install -r requirements.txt
+        run: |
+          python -m pip install -r requirements.txt
+          git clone https://forge.apps.education.fr/basthon/basthon-kernel.git
+          python -m pip install basthon-kernel/packages/kernel-ocaml
       - name: Build the JupyterLite site
         run: |
           cp README.md content
