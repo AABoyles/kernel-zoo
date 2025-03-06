@@ -9,3 +9,5 @@ dependencies:
   - xeus-cpp
   - xeus-nelson
   - xeus-javascript
+  - xeus-r
+  - r-coursekata
