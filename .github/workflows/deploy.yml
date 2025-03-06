@@ -31,7 +31,7 @@ jobs:
         run: |
           cp README.md content
           jupyter lite build --output-dir dist --XeusAddon.environment_file=.github/environment.yml
-          ls ./dist
+          cat ./dist/index.html
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
