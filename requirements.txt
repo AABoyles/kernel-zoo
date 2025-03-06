@@ -23,6 +23,7 @@ jupyterlite-ai
 ## File Renderers
 jupyterlab-fasta>=3.3.0,<4
 jupyterlab-geojson>=3.4.0,<4
+jupytergis
 
 ## Themes
 jupyterlab-night
