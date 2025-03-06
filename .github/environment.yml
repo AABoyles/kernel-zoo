@@ -6,9 +6,9 @@ dependencies:
   - xeus-python
   - xeus-lua
   - xeus-sqlite
+  - xeus-cling
   - xeus-cpp
   - xeus-nelson
   - xeus-javascript
   - xeus-r
-  - xeus-robot
   - r-coursekata
