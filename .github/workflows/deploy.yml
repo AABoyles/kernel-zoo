@@ -21,7 +21,7 @@ jobs:
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: '22.12.0'
+          node-version: '22.14.0'
       - name: Setup Micromamba (needed for cockle_wasm_env)
         uses: mamba-org/setup-micromamba@main
       - name: Install the dependencies
