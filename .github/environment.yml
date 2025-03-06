@@ -10,4 +10,5 @@ dependencies:
   - xeus-nelson
   - xeus-javascript
   - xeus-r
+  - xeus-robot
   - r-coursekata
