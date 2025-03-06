@@ -24,6 +24,7 @@ jupyterlite-ai
 jupyterlab-fasta>=3.3.0,<4
 jupyterlab-geojson>=3.4.0,<4
 jupytergis-lite
+jupytercad-lite
 
 ## Themes
 jupyterlab-night
