@@ -5,6 +5,7 @@ channels:
 dependencies:
   - xeus-python
   - xeus-lua
+  - xeus-sql
   - xeus-sqlite
   - xeus-cpp
   - xeus-nelson
